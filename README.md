@@ -70,7 +70,7 @@ I enjoy building web applications, solving technical problems, and exploring how
 
 📧 **Email:** [sanketsugave.dev@gmail.com](mailto:sanketsugave.dev@gmail.com)
 
-💼 **LinkedIn:** [Connect With Me](www.linkedin.com/in/sanket-sugave)
+💼 **LinkedIn:** [Connect With Me] at [www.linkedin.com/in/sanket-sugave]
 
 💻 **GitHub:** [Explore My Repositories](https://github.com/sanketsugavedev)
 
