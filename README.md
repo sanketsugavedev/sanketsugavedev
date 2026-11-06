@@ -64,11 +64,15 @@ I enjoy building web applications, solving technical problems, and exploring how
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true)
 
 ---
-
 ## 🤝 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanketsugavedev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sanket-sugave)
+🌐 **Portfolio:** [Visit My Website]([https://your-portfolio-domain.com](https://sanket-portfolio-yvq5-akv71r3vi-sanket-sugave.vercel.app/))
+
+📧 **Email:** [sanketsugave.dev@gmail.com](mailto:sanketsugave.dev@gmail.com)
+
+💼 **LinkedIn:** [Connect With Me](www.linkedin.com/in/sanket-sugave)
+
+💻 **GitHub:** [Explore My Repositories](https://github.com/sanketsugavedev)
 
 ---
 
